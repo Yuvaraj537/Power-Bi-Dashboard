@@ -48,7 +48,7 @@ Project Solution:
 ✨Enabled drill-down features for deeper analysis at hotel, city, and regional levels.
 ✨Automated data refresh to ensure real-time insights for stakeholders.
 
-Project Achievements
+Project Achievements:
 🎯Improved management’s ability to make strategic decisions with near real-time data.
 🎯Identified underperforming properties leading to targeted interventions and operational improvements.
 🎯Provided insights into booking channels and seasonal demand, helping optimize pricing strategies.
