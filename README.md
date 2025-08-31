@@ -18,7 +18,7 @@
 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
 ✨Mitron Bank is gearing up to launch a brand-new set of credit cards. I delved into a dataset of 4000 customers 
  
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞:
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 Keyword:
 🎯Customer Preferences: Explored age groups and payment preferences crucial for tailoring the ideal credit card in our imaginary world. 
 🎯Income Insights: Uncovered income details, discovering that Mumbai leads in earnings and IT employees are the highest earners.
 🎯Spending Patterns: Identified peak spending times and what customers spend on – vital for our imaginary bank's strategy. 
