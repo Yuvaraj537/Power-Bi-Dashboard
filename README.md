@@ -22,7 +22,7 @@
  𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄:
 ✨The Atliq Hospitality Dashboard was developed to analyze and monitor the performance of Atliq’s hotel business across multiple locations. It integrates data from bookings, revenue, occupancy, and customer feedback, providing a unified view of business health. The dashboard empowers management to make data-driven decisions on pricing, occupancy, and customer satisfaction.
 
- Problem Statement
+ Problem Statement:
 ✨Hotels often struggle with fragmented data across multiple sources, making it difficult to:
 ✨Track occupancy rates and revenue trends in real time
 ✨Identify areas affecting customer satisfaction
